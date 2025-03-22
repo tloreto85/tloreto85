@@ -173,14 +173,6 @@ I'm Thiago Loreto, from Manaus/AM, 39 years old, graduated in Computer Science, 
 />
 <img
     align="left"
-    alt="Postgresql"
-    title="Postgresql"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
-/>
-<img
-    align="left"
     alt="Numpy"
     title="Numpy"
     width="40px"
