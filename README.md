@@ -6,6 +6,19 @@ I'm Thiago Loreto, from Manaus/AM, 39 years old, graduated in Computer Science, 
 .
 
 <p align="left">
+    <a href="https://www.linkedin.com/in/thiagoloreto85" target="_blank">
+        <img 
+            alt="Linkedin" 
+            title="Follow me at Linkedin" 
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
+        />
+    </a>
+    <a href="mailto:loreto.thiago85@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Send me an e-mail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
+        />
     <a href="https://github.com/tloreto85?tab=followers">
         <img 
             alt="Followers" 
@@ -173,6 +186,14 @@ I'm Thiago Loreto, from Manaus/AM, 39 years old, graduated in Computer Science, 
 />
 <img
     align="left"
+    alt="Postgresql"
+    title="Postgresql"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+/>
+<img
+    align="left"
     alt="Numpy"
     title="Numpy"
     width="40px"
@@ -209,6 +230,8 @@ I'm Thiago Loreto, from Manaus/AM, 39 years old, graduated in Computer Science, 
 
 ---
 
+
+
 ### 📊 Estatísticas
 
 <p>
@@ -218,6 +241,13 @@ I'm Thiago Loreto, from Manaus/AM, 39 years old, graduated in Computer Science, 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=tloreto85&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
