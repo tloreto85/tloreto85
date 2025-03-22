@@ -8,23 +8,23 @@ I'm Thiago Loreto, from Manaus/AM, 39 years old, graduated in Computer Science, 
 <p align="left">
     <a href="https://github.com/tloreto85?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/tloreto85?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me at Github" 
+            src="https://custom-icon-badges.demolab.com/github/followers/tloreto85?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
     <a href="https://github.com/tloreto85?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/tloreto85?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total Stars" 
+            title="Total stars at GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/tloreto85?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Programm Languages
 
 <img 
     align="left" 
@@ -50,37 +50,13 @@ I'm Thiago Loreto, from Manaus/AM, 39 years old, graduated in Computer Science, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 <img
     align="left"
     alt="Java"
     title="Java"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" 
-/>
-<img
-    align="left"
-    alt="Selenium"
-    title="Selenium"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
-/>
-<img
-    align="left"
-    alt="Android"
-    title="Android"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
 <img
     align="left"
@@ -89,6 +65,30 @@ I'm Thiago Loreto, from Manaus/AM, 39 years old, graduated in Computer Science, 
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+<img
+    align="left"
+    alt="C"
+    title="C"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+          
+<br/>
+<br/>
+
+---
+
+### 🤖 Most relevant tecnnologies
+
+<img
+    align="left"
+    alt="Android"
+    title="Android"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg"
 />
 <img
     align="left"
@@ -138,10 +138,84 @@ I'm Thiago Loreto, from Manaus/AM, 39 years old, graduated in Computer Science, 
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-/> 
+/>
+<img
+    align="left"
+    alt="Windows"
+    title="Windows"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
+/>
+<img
+    align="left"
+    alt="Visual Studio"
+    title="Visual Studio"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+/>
+<img
+    align="left"
+    alt="Selenium"
+    title="Selenium"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
+/>
+<img
+    align="left"
+    alt="PyTest"
+    title="PyTest"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"  
+/>
+<img
+    align="left"
+    alt="Postgresql"
+    title="Postgresql"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+/>
+<img
+    align="left"
+    alt="Numpy"
+    title="Numpy"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" 
+/>
+<img
+    align="left"
+    alt="NodeJs"
+    title="NodeJs"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+/>
+<img
+    align="left"
+    alt="Mysql"
+    title="Mysql"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img
+    align="left"
+    alt="MongoDB"
+    title="MongoDB"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
+/>
           
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
@@ -154,3 +228,4 @@ I'm Thiago Loreto, from Manaus/AM, 39 years old, graduated in Computer Science, 
     src="https://github-readme-stats.vercel.app/api?username=tloreto85&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
+
