@@ -29,7 +29,7 @@ Senior Quality Engineer with over 10 years of experience designing automation fr
         <img 
             alt="Total Stars" 
             title="Total stars at GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/tloreto85?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/tloreto85?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
 </p>
