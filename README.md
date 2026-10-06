@@ -2,8 +2,7 @@
 
 **`Quality Assurance Specialist`**
 
-I'm Thiago Loreto, from Manaus/AM, 39 years old, graduated in Computer Science, Pos Graduated in Project Management and System Engineering. I've been working in IT area since 2007, first as System Developer (2007-2012), and since 2012 as Quality Assurance Engineer.
-.
+Senior Quality Engineer with over 10 years of experience designing automation frameworks and scalable quality strategies for Web, Mobile, APIs, Data Platforms and AI-powered applications. My expertise spans Playwright, Python, Robot Framework, Selenium, Azure DevOps, Docker, CI/CD and cloud-native testing environments. Recently I've been focused on AI Quality Engineering, building automated evaluation frameworks for LLMs and AI Agents using DeepEval, Claude Code, MCP integrations and modern Quality Engineering practices. I enjoy solving complex engineering problems, improving development workflows, and helping organizations deliver reliable, scalable, production-ready software through automation and continuous quality.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/thiagoloreto85" target="_blank">
