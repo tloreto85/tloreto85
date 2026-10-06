@@ -25,7 +25,7 @@ Senior Quality Engineer with over 10 years of experience designing automation fr
             src="https://custom-icon-badges.demolab.com/github/followers/tloreto85?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
         />
     </a>
-    <a href="https://github.com/tloreto85?tab=repositories&sort=stargazers">
+    <a href="https://github.com/tloreto85?tab=repositories&count=stargazers">
         <img 
             alt="Total Stars" 
             title="Total stars at GitHub" 
