@@ -22,7 +22,7 @@ Senior Quality Engineer with over 10 years of experience designing automation fr
         <img 
             alt="Followers" 
             title="Follow me at Github" 
-            src="https://custom-icon-badges.demolab.com/github/followers/tloreto85?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/tloreto85?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
         />
     </a>
     <a href="https://github.com/tloreto85?tab=repositories&sort=stargazers">
